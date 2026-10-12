@@ -10,7 +10,7 @@ Computer Science undergraduate (B.Tech, 2027) with a strong foundation in full-s
 * 🔭 I’m currently working on: **Full-stack MERN applications and video denoising optimization**[cite: 1]
 * 🔬 Applied Research: **Engineered a GPU-accelerated video denoising pipeline achieving ~20x speedup at MANIT Bhopal**[cite: 1]
 * 🧠 Interested in: **Full-Stack Development, Computer Vision, Deep Learning, and Systems Optimization**[cite: 1]
-* 🏆 Achievements: **College Topper (9.05 SGPA) & NPTEL Elite Topper in Operating System Fundamentals**[cite: 1]
+
 * 📫 How to reach me: **rajmaurya66115@gmail.com**[cite: 1]
 
 ---
