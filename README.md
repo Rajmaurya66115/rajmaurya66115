@@ -1,17 +1,17 @@
 ### Hi 👋 I'm Raj Maurya
 
-Computer Science undergraduate (B.Tech, 2027) with a strong foundation in full-stack web development and applied research in computer vision and systems optimization[cite: 1].
+Computer Science undergraduate (B.Tech, 2027) with a strong foundation in full-stack web development and applied research in computer vision and systems optimization.
 
 > *"Building scalable web solutions and GPU-accelerated computer vision pipelines."*
 
 ---
 
 ### 👨‍💻 About Me
-* 🔭 I’m currently working on: **Full-stack MERN applications and video denoising optimization**[cite: 1]
-* 🔬 Applied Research: **Engineered a GPU-accelerated video denoising pipeline achieving ~20x speedup at MANIT Bhopal**[cite: 1]
-* 🧠 Interested in: **Full-Stack Development, Computer Vision, Deep Learning, and Systems Optimization**[cite: 1]
+* 🔭 I’m currently working on: **Full-stack MERN applications and video denoising optimization**.
+* 🔬 Applied Research: **Engineered a GPU-accelerated video denoising pipeline achieving ~20x speedup at MANIT Bhopal**.
+* 🧠 Interested in: **Full-Stack Development, Computer Vision, Deep Learning, and Systems Optimization**.
 
-* 📫 How to reach me: **rajmaurya66115@gmail.com**[cite: 1]
+* 📫 How to reach me: **rajmaurya66115@gmail.com**.
 
 ---
 
@@ -24,8 +24,8 @@ Computer Science undergraduate (B.Tech, 2027) with a strong foundation in full-s
 ---
 
 ### 🚀 Featured Projects
-* **AI Resume Analyzer:** Full-stack MERN application to evaluate resumes against ATS criteria using the Google Gemini API, featuring JWT authentication and secure file parsing via Multer[cite: 1].
-* **Alvey AI Voice Assistant:** Python-based end-to-end AI assistant featuring real-time Indian Sign Language (ISL) gesture recognition using MediaPipe/OpenCV, voice recognition, and a multi-threaded CustomTkinter GUI[cite: 1].
+* **AI Resume Analyzer:** Full-stack MERN application to evaluate resumes against ATS criteria using the Google Gemini API, featuring JWT authentication and secure file parsing via Multer.
+* **Alvey AI Voice Assistant:** Python-based end-to-end AI assistant featuring real-time Indian Sign Language (ISL) gesture recognition using MediaPipe/OpenCV, voice recognition, and a multi-threaded CustomTkinter GUI.
 
 ---
 
