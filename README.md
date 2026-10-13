@@ -13,7 +13,6 @@
 ### 👨‍💻 About Me
 * 🌱 I am a Computer Science undergraduate (B.Tech 2027) at Dr. Ambedkar Institute of Technology for Divyangjan, Kanpur.
 * 🔬 Experienced Research Intern at **MANIT Bhopal**, working on video denoising optimization and GPU-accelerated pipelines.
-* 🏆 Recognized as a College Topper (Sem 2, 9.05 SGPA) and NPTEL Elite Topper in Operating System Fundamentals.
 
 ---
 
