@@ -37,9 +37,9 @@ Software Engineer Intern, Research Engineer, Web developer roles.
   * Implemented real-time ISL sign language recognition and gesture-based typing using MediaPipe and OpenCV.
   * Designed a multi-threaded CustomTkinter GUI; automated email delivery, app execution, and text extraction.
 * **Mini Image Processing Tool** *($Python, Tesseract OCR, OpenCV, pyttsx3)* 
-– Developed a mini image processing application in Python utilizing OpenCV and Tesseract OCR for real-time text extraction.
-– Extracted both printed and handwritten text accurately from webcam input streams with live bounding box visualization.
-– Integrated pyttsx3 Text-to-Speech output to automatically read aloud the processed and extracted text reliably.
+  * Developed a mini image processing application in Python utilizing OpenCV and Tesseract OCR for real-time text extraction.
+  * Extracted both printed and handwritten text accurately from webcam input streams with live bounding box visualization.
+  * Integrated pyttsx3 Text-to-Speech output to automatically read aloud the processed and extracted text reliably.
 ---
 
 ### 🔬 Experience & Research
