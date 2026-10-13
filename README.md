@@ -21,9 +21,9 @@
 | Category | Technologies / Tools |
 | :--- | :--- |
 | **Languages** | JavaScript (ES6+), Python, C, Java, HTML5, CSS3 |
-| **AI / Computer Vision** | OpenCV, MediaPipe, Tesseract OCR, PyTorch, CUDA, Gemini API, pyttsx3 |
+| **AI / Computer Vision** | OpenCV, MediaPipe, Tesseract OCR, PyTorch, CUDA, pyttsx3 |
 | **CS Fundamentals** | Data Structures and Algorithms, OOP, Operating Systems, DBMS, Computer Networks |
-| **Tools and Platforms** | Git, GitHub, Postman, VS Code, CustomTkinter |
+| **Tools and Platforms** | Git, GitHub, VS Code, CustomTkinter |
 
 ### 🚀 Projects
 
