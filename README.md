@@ -20,8 +20,6 @@
 ### 🛠️ Tech Stack & Skills
 
 | Category | Technologies / Tools |
-| :--- | :--- |
-| **Web Development (MERN)** | React.js, Node.js, Express.js, MongoDB, Mongoose, RESTful APIs, JWT, Tailwind CSS[cite: 4] |
 | **Languages** | JavaScript (ES6+), Python, C, Java, HTML5, CSS3 |
 | **AI / Computer Vision** | OpenCV, MediaPipe, Tesseract OCR, PyTorch, CUDA, Gemini API, pyttsx3 |
 | **CS Fundamentals** | Data Structures and Algorithms, OOP, Operating Systems, DBMS, Computer Networks|
