@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Maurya</h1>
-<h3 align="center">Computer Science and Engineering |  </h3>
+<h3 align="center">Computer Science and Engineering  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rajmaurya66115&style=flat-square&color=blue" alt="Profile Views"/>
