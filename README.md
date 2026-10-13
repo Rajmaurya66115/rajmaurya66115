@@ -10,7 +10,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 Computer Science undergraduate (B.Tech 2027) with hands-on experience in Artificial Intelligence, Computer Vision, Python
 development, and research. Research Intern at MANIT Bhopal, where I authored a paper on accelerating DVDNet video denoising
 using DIS Optical Flow, GPU acceleration, and Automatic Mixed Precision (AMP), achieving up to a 20× inference speed
@@ -21,7 +21,7 @@ Software Engineer Intern, Research Engineer, Web developer roles.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Category | Technologies / Tools |
 | :--- | :--- |
@@ -30,7 +30,7 @@ Software Engineer Intern, Research Engineer, Web developer roles.
 | **CS Fundamentals** | Data Structures and Algorithms, OOP, Operating Systems, DBMS, Computer Networks |
 | **Tools and Platforms** | Git, GitHub, VS Code, CustomTkinter |
 
-### 🚀 Projects
+###  Projects
 
 * **Alvey -- AI Voice Assistant** *($Python, MediaPipe, OpenCV, Custom Tkinter, pyttsx3$)*
   * Built an end-to-end AI assistant with voice recognition, text-to-speech, OCR, multilingual translation, and desktop automation.
@@ -42,7 +42,7 @@ Software Engineer Intern, Research Engineer, Web developer roles.
   * Integrated pyttsx3 Text-to-Speech output to automatically read aloud the processed and extracted text reliably.
 ---
 
-### 🔬 Experience & Research
+###  Experience & Research
 
 * **Research Intern** — *MANIT Bhopal (Maulana Azad National Institute of Technology)*
   * *Duration:* June 1, 2026 – June 15, 2026
@@ -54,7 +54,7 @@ Software Engineer Intern, Research Engineer, Web developer roles.
 
 ---
 
-### 🏆 Achievements & Certifications
+###  Achievements & Certifications
 
 * **College Topper** — B.Tech 1st Year Sem 2 (9.05 SGPA) and Mathematics Topper Sem 2 (97/100, A+), 2024
 * **NPTEL Elite Topper (Top 5%)** — Operating System Fundamentals, IIT Kharagpur, Jul–Oct 2025
@@ -67,7 +67,7 @@ Software Engineer Intern, Research Engineer, Web developer roles.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajmaurya66115&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
